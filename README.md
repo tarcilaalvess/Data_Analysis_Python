@@ -23,4 +23,11 @@ This repository showcases a collection of data analysis and machine learning pro
 - **Pandas**: For data manipulation and analysis.  
 - **Matplotlib & Seaborn**: Libraries for creating charts and visualizations.  
 - **Scikit-learn**: For building and evaluating machine learning models.  
-- **Jupyter Notebooks**: Development environment used to build, test, and document the projects.  
+- **Jupyter Notebooks**: Development environment used to build, test, and document the projects.
+
+## Available Projects:
+
+### Hangman Game in Python:
+
+- **Objective**: Develop an interactive Hangman game using Python, reinforcing concepts of programming logic, list manipulation, and loop structures.
+- **Tools**: Python (Google Colab).
