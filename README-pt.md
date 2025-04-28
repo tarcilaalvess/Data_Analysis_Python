@@ -23,4 +23,11 @@ Este repositório apresenta uma série de projetos de análise de dados e machin
 - **Pandas**: Para manipulação e análise de dados.  
 - **Matplotlib e Seaborn**: Bibliotecas para geração de gráficos e visualizações.  
 - **Scikit-learn**: Para criação e avaliação de modelos de machine learning.  
-- **Jupyter Notebooks**: Ambiente utilizado para desenvolver, testar e documentar os projetos.  
+- **Jupyter Notebooks**: Ambiente utilizado para desenvolver, testar e documentar os projetos.
+
+## Projetos Disponíveis:
+
+### Jogo da Forca em Python:
+
+- **Objetivo**: Desenvolver um jogo da forca interativo utilizando Python, reforçando conceitos de lógica de programação, manipulação de listas e estruturas de repetição.
+- **Ferramentas**: Python (Google Colab).
